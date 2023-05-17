@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+*{
+    margin: 0;
+}
+
+.cabeçario{
+    background-color: rgb(59, 59, 59);
+    width: 100%;
+    height: 60px;
+}
+
+.paragrafo{
+   text-align: center;
+   color: white;
+   font-family: 'Lalezar', cursive;
+   font-size: 31px;
+}
+
+.legendadocab{
+    background-color: rgb(136, 135, 135);
+    width: 100%;
+    height: 40px;
+}
+
+.imgs{
+    display: flex;
+
+}
+
+.paragrafo2{
+    text-align: center;
+    color: white;
+    font-size: 17px;
+}
+.paris{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.texto{
+    background-color: gray;
+    width: 194px;
+}
+
+.toquio{
+    margin-top: 50px;
+    margin-left: 44px;
+}
